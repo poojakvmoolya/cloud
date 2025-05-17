@@ -1,3 +1,2 @@
 # cloud
-hello hello
- its cloud computing
+print('hello hello its cloud computing')
